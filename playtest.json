@@ -1,5 +1,5 @@
 {
-  "whitelist": ["pulpxi"],
+  "whitelist": ["pulpxi_"],
   "_default": {
     "active": false,
     "message": "This playtest version has expired. If you think this is a mistake, please contact the creator."
