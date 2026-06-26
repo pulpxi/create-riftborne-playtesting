@@ -3,7 +3,7 @@
     "active": false,
     "message": "This playtest version has expired. If you think this is a mistake, please contact the creator."
   },
-  "0.2.8-pt01": {
+  "0.2.9-pt01": {
     "active": true,
     "message": "Playtest active - have fun! Report bugs in #faq."
   }
