@@ -3,7 +3,7 @@
     "active": false,
     "message": "This build is not part of an active playtest. Grab the latest build from the Discord."
   },
-  "0.2.8-pt-01": {
+  "0.2.8-pt01": {
     "active": true,
     "message": "Playtest active - have fun! Report bugs in #faq."
   }
