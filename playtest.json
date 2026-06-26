@@ -1,7 +1,7 @@
 {
   "_default": {
     "active": false,
-    "message": "This build is not part of an active playtest. Grab the latest build from the Discord."
+    "message": "This playtest version has expired. If you think this is a mistake, please contact the creator."
   },
   "0.2.8-pt01": {
     "active": true,
