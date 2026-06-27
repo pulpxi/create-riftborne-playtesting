@@ -5,7 +5,7 @@
     "message": "This playtest version has expired. If you think this is a mistake, please contact the creator."
   },
   "0.3.0-playtest": {
-    "active": true,
+    "active": false,
     "message": "Playtest active - have fun! Report bugs in #playtesting-feedback or the form."
   }
 }
