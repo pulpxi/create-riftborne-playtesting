@@ -1,11 +1,14 @@
 {
   "whitelist": ["pulpxi", "kriscrosaplesauc", "rip_oceanicfan", "Peak2000", "TheCouncilOf_8", "___Lunar", "Orion_258", "Hstar747", "Neo_320YT_TV"],
+  "whitelistMessage": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!",
   "_default": {
     "active": false,
     "message": "This playtest version has expired. If you think this is a mistake, please contact the creator."
   },
   "0.3.0-playtest": {
     "active": false,
-    "message": "Playtest active - have fun! Report bugs in #playtesting-feedback or the form."
+    "message": "Hi! The playtest is live - have fun! Report bugs in #playtesting-feedback or the form.",
+    "inactiveMessage": "The playtest isn't live yet - hang tight!",
+    "startsAt": 1782576000
   }
 }
