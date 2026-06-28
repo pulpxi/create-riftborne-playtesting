@@ -1,5 +1,5 @@
 {
-  "whitelist": ["pulpxi", "kriscrosaplesauc", "rip_oceanicfan", "Peak2000", "TheCouncilOf_8", "2C0LD9469", "Orion_258", "Hstar747", "Neo_320YT_TV", "EvilVoli"],
+  "whitelist": ["pulpxi", "Meku45", "kriscrosaplesauc", "rip_oceanicfan", "Peak2000", "TheCouncilOf_8", "2C0LD9469", "Orion_258", "Hstar747", "Neo_320YT_TV", "EvilVoli"],
   "whitelistMessage": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!",
   "_default": {
     "active": false,
