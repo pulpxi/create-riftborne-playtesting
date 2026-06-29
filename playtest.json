@@ -11,7 +11,7 @@
     "inactiveMessage": "The playtest isn't live yet - hang tight!",
     "startsAt": 1782577800
   },
-  "0.3.7-gate": {
+  "0.3.12-artists": {
     "active": true,
     "message": "Hi! Artist-Build! Report bugs in #playtesting-feedback or the form.",
     "inactiveMessage": "Build not active!",
