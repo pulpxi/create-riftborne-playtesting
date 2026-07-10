@@ -25,5 +25,6 @@
     "active": true,
     "message": "Hi! The playtest is live - have fun! Report bugs in #playtesting-feedback or the form.",
     "inactiveMessage": "Build not active!",
+    "startsAt": 1782577800
   }
 }
