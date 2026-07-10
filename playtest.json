@@ -19,7 +19,7 @@
   "whitelistMessage": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!",
   "_default": {
     "active": false,
-    "message": "This playtest version has expired. If you think this is a mistake, please contact the creator."
+    "message": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!"
   },
   "0.4.0-playtest": {
     "active": true,
