@@ -2,24 +2,24 @@
   "whitelist": [
     "pulpxi",
     "Orion_258",
-    "EvilVoli"
+    "EvilVoli",
+    "Neo_320YT_TV",
+    "Canearn",
+    "Lunar___",
+    "SejSilAas1",
+    "PokeGirlOFC",
+    "memegodtea",
+    "mimis",
+    "_0gga_",
+    "PrinceEris",
+    "Speedy345",
+    "TheLazyRaccoon",
+    "ManInTheBag"
   ],
   "whitelistMessage": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!",
   "_default": {
     "active": false,
     "message": "This playtest version has expired. If you think this is a mistake, please contact the creator."
-  },
-  "0.3.7-playtest": {
-    "active": true,
-    "message": "Hi! The playtest is live - have fun! Report bugs in #playtesting-feedback or the form.",
-    "inactiveMessage": "The playtest isn't live yet - hang tight!",
-    "startsAt": 1782577800
-  },
-  "0.3.12-artists": {
-    "active": true,
-    "message": "Hi! Artist-Build! Report bugs in #playtesting-feedback or the form.",
-    "inactiveMessage": "Build not active!",
-    "startsAt": 1782577800
   },
   "0.4.0-playtest": {
     "active": true,
