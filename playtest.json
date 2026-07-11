@@ -1,30 +1,44 @@
 {
-  "whitelist": [
-    "pulpxi",
-    "Orion_258",
-    "EvilVoli",
-    "Neo_320YT_TV",
-    "Canearn",
-    "Lunar___",
-    "SejSilAas1",
-    "PokeGirlOFC",
-    "memegodtea",
-    "mimis",
-    "_0gga_",
-    "PrinceEris",
-    "Speedy345",
-    "TheLazyRaccoon",
-    "ManInTheBag"
-  ],
-  "whitelistMessage": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!",
-  "_default": {
-    "active": true,
+  "whitelist": {
+    "enabled": true,
+    "players": [
+      "pulpxi",
+      "Orion_258",
+      "EvilVoli",
+      "Neo_320YT_TV",
+      "Canearn",
+      "Lunar___",
+      "SejSilAas1",
+      "PokeGirlOFC",
+      "memegodtea",
+      "mimis",
+      "_0gga_",
+      "PrinceEris",
+      "Speedy345",
+      "TheLazyRaccoon",
+      "ManInTheBag"
+    ],
     "message": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!"
   },
-  "0.4.0-playtest": {
-    "active": true,
-    "message": "Hi! The playtest is live - have fun! Report bugs in #playtesting-feedback or the form.",
-    "inactiveMessage": "Build not active!",
-    "startsAt": 1782577800
+
+  "activateAllVersions": false,
+
+  "defaultMessages": {
+    "unknownVersion": "This version is deprecated. Grab the latest playtest build from the Discord.",
+    "inactive": "This build isn't active. Check the Discord for the current build.",
+    "notStarted": "The playtest hasn't started yet - hang tight!",
+    "expired": "This playtest build has ended. Grab the newest build from the Discord."
+  },
+
+  "versions": {
+    "0.4.0-playtest": {
+      "active": false,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form.",
+      "startsAt": 1782577800
+    },
+    "0.4.6-playtest": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    }
   }
 }
