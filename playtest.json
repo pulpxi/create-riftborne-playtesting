@@ -18,7 +18,7 @@
   ],
   "whitelistMessage": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!",
   "_default": {
-    "active": false,
+    "active": true,
     "message": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!"
   },
   "0.4.0-playtest": {
