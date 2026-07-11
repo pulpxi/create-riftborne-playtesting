@@ -22,7 +22,7 @@
     "message": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!"
   },
   "0.4.0-playtest": {
-    "active": false,
+    "active": true,
     "message": "Hi! The playtest is live - have fun! Report bugs in #playtesting-feedback or the form.",
     "inactiveMessage": "Build not active!",
     "startsAt": 1782577800
