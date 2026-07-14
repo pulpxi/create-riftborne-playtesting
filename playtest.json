@@ -33,6 +33,10 @@
       "startsAt": 1782577800
     },
     "0.4.6-playtest": {
+      "active": false,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.5.0-playtest": {
       "active": true,
       "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
     }
