@@ -5,6 +5,7 @@
       "pulpxi",
       "Orion_258",
       "EvilVoli",
+      "amadeus0608",
       "Neo_320YT_TV",
       "SejSilAas1",
       "PokeGirlOFC",
@@ -12,7 +13,6 @@
       "Speedy345",
       "TheLazyRaccoon",
       "ManInTheBag",
-      "generaleduard"
     ],
     "message": "You're not on the playtest whitelist. DM the creator on Discord if it is a mistake!"
   },
@@ -37,10 +37,14 @@
       "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
     },
     "0.5.0-playtest": {
-      "active": true,
+      "active": false,
       "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
     },
     "0.5.4-playtest": {
+      "active": false,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.6.6-g": {
       "active": true,
       "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
     }
