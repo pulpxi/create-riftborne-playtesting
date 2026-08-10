@@ -55,6 +55,10 @@
     "0.7.5-g": {
       "active": true,
       "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.7.10-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
     }
   }
 }
