@@ -36,6 +36,34 @@
     "0.21.0-g": {
       "active": true,
       "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.21.1-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.21.2-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.21.3-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.21.4-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.21.5-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.21.6-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
+    },
+    "0.21.7-g": {
+      "active": true,
+      "welcome": "The playtest is live - have fun! Report bugs in #playtesting-feedback or the form."
     }
   }
 }
